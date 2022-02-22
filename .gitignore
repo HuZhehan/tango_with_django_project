@@ -1,0 +1,12 @@
+db.sqlite3
+__pycache__/
+*.pyc
+rango/tests.py
+rango/tests_chapter3.py
+rango/tests_chapter4.py
+rango/tests_chapter5.py
+rango/tests_chapter6.py
+rango/tests_chapter7.py
+rango/tests_chapter8.py
+rango/tests_chapter9.py
+rango/tests_chapter10.py
